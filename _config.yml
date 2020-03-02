@@ -3,7 +3,7 @@ title: WYQ Blog
 SEOTitle: WYQ Blog
 header-img: img/post-bg-rwd.jpg
 email: 201883330053@nuist.edu.cn
-description: "Every failure is leading towards success."
+description: "Here lies one whose name was written in water."
 keyword: "Wyq, RS, Wyq RS Blog "
 url: "http://wangyiqi-handsome.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/wangyiqi-handsome/wangyiqi-handsome.github.io.g
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "If you are determined to move forward, you still have to persist."
+sidebar-about-description: "Here lies one whose name was written in water."
 sidebar-avatar: /img/2017032115370998031.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
